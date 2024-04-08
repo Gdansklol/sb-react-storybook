@@ -1,1 +1,1 @@
-# Storybook with React
+# Storybook
