@@ -1,6 +1,8 @@
+## Build storybook project
 
->Create a simple project for component development.
->We base it on React and Webpack.
+> Create a simple project for component development.
+
+> We base it on React and Webpack.
 
 ## Prepare
 
